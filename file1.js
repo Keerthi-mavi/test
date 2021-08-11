@@ -1,1 +1,2 @@
-console.log("Hello GIT")
+fname = 'Keerthi'
+console.log('Hello '+fname)
